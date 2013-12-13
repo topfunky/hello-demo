@@ -3,5 +3,5 @@ node_js:
   - "0.11"
   - "0.10"
 notifications:
-  webhooks: http://fathomless-depths-7940.herokuapp.com/
+  webhooks: http://fathomless-depths-7940.herokuapp.com/notifications
 
