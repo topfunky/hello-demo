@@ -1,0 +1,17 @@
+{
+  "name": "hello-demo",
+  "version": "0.0.1",
+  "description": "Simple app to demonstrate CI server integration.",
+  "main": "hello.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "Geoffrey Grosenbach",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  }
+}
