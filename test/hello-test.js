@@ -5,7 +5,7 @@ describe('hello', function() {
 
   it("returns the string 'hello'", function() {
     var result = hello();
-    assert.equal(result, 'hello');
+    assert.equal(result, 'hellooo');
   });
 
 });
