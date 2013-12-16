@@ -4,5 +4,8 @@ node_js:
   - "0.10"
 notifications:
   email: false
-  webhooks: http://fathomless-depths-7940.herokuapp.com/notifications
+  webhooks:
+    urls:
+      - http://fathomless-depths-7940.herokuapp.com/notifications
+    on_start: true
 
