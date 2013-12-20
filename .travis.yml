@@ -6,6 +6,5 @@ notifications:
   email: false
   webhooks:
     urls:
-      - http://fathomless-depths-7940.herokuapp.com/notifications
     on_start: true
 
