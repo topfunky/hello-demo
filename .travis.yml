@@ -6,5 +6,6 @@ notifications:
   email: false
   webhooks:
     urls:
+      - http://pacific-everglades-2062.herokuapp.com/notifications
     on_start: true
 
